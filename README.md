@@ -1,19 +1,9 @@
 # David’s Tows
 
-Complete editable website source: HTML, CSS, JavaScript, and images are in `dist/`.
+Editable static website with matching root and dist copies for hosting compatibility. Run npm start to preview dist at http://127.0.0.1:4173. No build or dependency installation is required.
 
-## Preview
-With Node.js installed, run `npm start` and open http://127.0.0.1:4173.
-No dependency installation or build step is required.
+The remade transparent logo is assets/logo-remade.png (also mirrored in dist/assets). It is used consistently in the header, cinematic photo entrance, and footer. The PNG preserves the original brand style and omits the phone number and social media details.
 
-## Upload to GitHub
-Extract this ZIP and upload the contents of the `davids-tows` folder to your repository.
+Company photography supplied by the client. Supporting highway photograph: kimi lee / Unsplash, https://unsplash.com/photos/highway-at-night-M3RVFbqKGu4 under https://unsplash.com/license.
 
-## Hosting
-Publish `dist/` as the site root with any static host. Internal URLs start at `/`, so use a root domain or subdomain. GitHub Pages project subpaths require URL adjustments.
-
-## Images and logo
-The client supplied the company photographs. Supporting road photograph by kimi lee on Unsplash: https://unsplash.com/photos/highway-at-night-M3RVFbqKGu4 (https://unsplash.com/license).
-Transparent SVG logos are in `dist/assets/logo-clean.svg` and `dist/assets/logo-dark.svg`.
-
-The entrance is a skippable animated photograph sequence, with reduced-motion support and session memory.
+The entrance is a skippable photographic sequence with session memory and reduced-motion support.

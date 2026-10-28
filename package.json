@@ -1,0 +1,7 @@
+{
+  "name": "davids-tows",
+  "version": "1.0.0",
+  "private": true,
+  "description": "David's Tows website",
+  "scripts": { "start": "node server.cjs", "dev": "node server.cjs" }
+}
